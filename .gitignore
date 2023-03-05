@@ -1,0 +1,4 @@
+invoiceenv/*
+invoice/__pycache__/*
+invoice/migrations/*
+invoicing/__pycache__/*
