@@ -1,7 +1,5 @@
 # Create an Invoicing Application with Python and Bootstrap5
 
-This is the final Instalment in the Invoice App development journey. There are two more instalments in this tuturial series. The videos are all available on youtube. 
-
 
 ## Requirements File
 You need to install the following packages before running the code:
