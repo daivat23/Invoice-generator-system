@@ -1,6 +1,4 @@
 # Create an Invoicing Application with Python and Bootstrap5
-
-
 ## Requirements File
 You need to install the following packages before running the code:
 ```sh
